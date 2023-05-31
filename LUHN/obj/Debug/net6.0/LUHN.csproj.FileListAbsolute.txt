@@ -1,0 +1,15 @@
+F:\Demo\LUHN\LUHN\bin\Debug\net6.0\LUHN.exe
+F:\Demo\LUHN\LUHN\bin\Debug\net6.0\LUHN.deps.json
+F:\Demo\LUHN\LUHN\bin\Debug\net6.0\LUHN.runtimeconfig.json
+F:\Demo\LUHN\LUHN\bin\Debug\net6.0\LUHN.dll
+F:\Demo\LUHN\LUHN\bin\Debug\net6.0\LUHN.pdb
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\LUHN.csproj.AssemblyReference.cache
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\LUHN.GeneratedMSBuildEditorConfig.editorconfig
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\LUHN.AssemblyInfoInputs.cache
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\LUHN.AssemblyInfo.cs
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\LUHN.csproj.CoreCompileInputs.cache
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\LUHN.dll
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\refint\LUHN.dll
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\LUHN.pdb
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\LUHN.genruntimeconfig.cache
+F:\Demo\LUHN\LUHN\obj\Debug\net6.0\ref\LUHN.dll

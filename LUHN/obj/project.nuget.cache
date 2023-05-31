@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TKMY127LIVhcNGykZME8WdO7Cs9yj08sE1Tq0PNufmuxAmmMDpuJ3dQ8Lr2MMLoAXkGX53hT8Uy5xs8diNkxbg==",
+  "success": true,
+  "projectFilePath": "F:\\Demo\\LUHN\\LUHN\\LUHN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maiyuanadmin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\maiyuanadmin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\maiyuanadmin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\maiyuanadmin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
